@@ -1,8 +1,4 @@
 ## Welcome 
 
-### Publications
 
-1. Razzaque, Mohammad Abdur, Marija Milojevic-Jevric, **Andrei Palade**, and Siobhán Clarke. "*Middleware for Internet of Things: A Survey.*" IEEE Internet of Things Journal 3, no. 1, 2016. [[Preprint](https://www.researchgate.net/publication/283651343_Middleware_for_Internet_of_Things_a_Survey)][[Bibtex](https://palade.github.io/bibtex/middleware_for_iot_a_survey.bib)]
-2. **Palade, Andrei**, Christian Cabrera, Gary White, Mohammad Abdur Razzaque, and Siobhán Clarke. "*Middleware for Internet of Things: A Quantitative Evaluation in Small Scale.*" In 2017 IEEE 18th International Symposium on A World of Wireless, Mobile and Multimedia Networks (WoWMoM), pp. 1-6. IEEE, 2017. [[Preprint](https://www.researchgate.net/publication/318407501_Middleware_for_Internet_of_Things_A_quantitative_evaluation_in_small_scale)][[Bibtex](https://palade.github.io/bibtex/middleware_for_iot_small_scale_evaluation.bib)]
-3. Cabrera, Christian, **Andrei Palade**, and Siobhán Clarke. "*An Evaluation of Service Discovery Protocols in the Internet of Things.*" In Proceedings of the Symposium on Applied Computing, pp. 469-476. ACM, 2017. [[Preprint](https://www.researchgate.net/publication/317607609_An_evaluation_of_service_discovery_protocols_in_the_internet_of_things)][[Bibtex](https://palade.github.io/bibtex/an_evaluation_of_discovery_protocols_in_iot.bib)]
-4. White, Gary, **Andrei Palade**, and Siobhán Clarke. "*Qos Prediction for Reliable Service Composition in IoT.*" In International Conference on Service-Oriented Computing, pp. 149-160. Springer, Cham, 2017. [[Preprint](https://www.researchgate.net/publication/321010086_QoS_Prediction_for_Reliable_Service_Composition_in_IoT)][[Bibtex](https://palade.github.io/bibtex/qos_prediction_for_reliable_service_commposition_in_iot.bib)]
+[Publications](./publications.html)
