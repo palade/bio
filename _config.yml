@@ -1,5 +1,6 @@
 title: Andrei Palade
 description: palade.github.io
 show_downloads: false
-google_analytics: assets/avatar.png
+logo: assets/avatar.png
+google_analytics: UA-126279479-1
 theme: jekyll-theme-minimal
